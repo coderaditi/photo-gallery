@@ -1,0 +1,54 @@
+body {
+     margin: 0;
+     text-align: center;
+     background-color:chartreuse; 
+}
+html {
+     scroll-behavior: smooth;
+}
+
+h1 {
+     font-size: 40px;
+     font-family: sans-serif;
+     font-weight: 300;
+}
+#normal view,
+#grid view,
+#sliding view,
+     {
+     padding: 50px;
+     text-align: center;
+     font-family: 'Cinzel Decorative', cursive;
+}
+.links {
+     float: left;
+     color:black;
+     padding-left: 9px;
+     padding-right: 9px;
+     font-family: fantasy;
+     font-size: 20px;
+     
+}
+
+.links:hover {
+     background-color: mediumvioletred;
+     font-size: 25px;
+     text-decoration: underline;
+}
+a {
+     text-decoration: none;
+     color: black;
+     text-shadow: 2px 2px gainsboro;
+}
+.article {
+     color: crimson;
+}
+
+.article:hover {
+     color: fuchsia;
+}
+img{
+     height: 200px;
+     width: 200px;
+     margin:20px;
+}
